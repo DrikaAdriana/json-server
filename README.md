@@ -2,20 +2,25 @@
 
 > Status: Concluído ✨
 
-<h2>API Fake </2>
+### API Fake
 
-* Instalei as dependências npm
-* Criei uma API Fake no Visual Stúdio Code
+* Instalei as dependências NPM
+* Criei uma API - Fake
 * Depois com json-server --watch efetuei testes na Api Fake 
 * Utilizei o Postman e nele exercitei os métodos:
 * GET
 * POST
 * PUT
-* PATH
+* PATCH
 * DELITE
 
+### Tecnologias utilizadas:
 
-
+* NPM 
+* Visual Stúdio Code
+* Json-Server
+* JavaScript
+* Postman
 
 
 
